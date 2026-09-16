@@ -29,6 +29,8 @@ Open:
 
 ## Sample Result
 
+![Faster R-CNN detection result](sample_outputs/airplane_detection.png)
+
 The model was tested on custom images and outputs predicted classes,
 confidence scores and bounding boxes.
 
